@@ -62,6 +62,12 @@ const music_list = [
         name : 'Sawa Na',
         artist : 'Adie',
         music : 'music/Adie_Sawa_Na_Official_Lyric_Video_.mp3'
+    },
+    {
+        img : 'images/Gab.png',
+        name : 'Anghel',
+        artist : 'The Juans',
+        music : 'The_Juans_Anghel.mp3'
     }
 ];
 
