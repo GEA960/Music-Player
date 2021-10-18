@@ -67,7 +67,7 @@ const music_list = [
         img : 'images/Gab.png',
         name : 'Anghel',
         artist : 'The Juans',
-        music : 'The_Juans_Anghel.mp3'
+        music : 'music/The_Juans_Anghel.mp3'
     }
 ];
 
