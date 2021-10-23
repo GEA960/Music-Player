@@ -68,7 +68,13 @@ const music_list = [
         name : 'Anghel',
         artist : 'The Juans',
         music : 'music/The_Juans_Anghel.mp3'
-    }
+    },
+    {
+        img : 'images/Gab.png',
+        name : 'August',
+        artist : 'Taylor Swift',
+        music : 'music/Taylor_Swift_august.mp3'
+    },
 ];
 
 loadTrack(track_index);
